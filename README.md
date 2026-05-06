@@ -37,7 +37,7 @@ From **Tata Consultancy Services** (optimizing PySpark pipelines processing 250G
 |---|---|
 | ⚡ Pipeline Runtime | Reduced by **60%** via modular Dagster + dbt workflow automation |
 | 🔁 Processing Speed | Accelerated by **65%** across 50+ PySpark ETL pipelines at TCS |
-| 💰 Cloud Compute Costs | Cut by **40%** through Snowflake query optimization (clustering, partitioning, RBAC) |
+| 💰 Cloud Compute Costs | Cut by **40%** via Snowflake query optimization (clustering, partitioning, RBAC) |
 | 🗄️ Storage Costs | Reduced by **45%** after on-premise → AWS serverless migration |
 | 🧹 Data Duplicates | Resolved **75%** using Snowflake Cortex LLM + embedding-based entity resolution |
 | 📊 Data Consistency | Improved enterprise-wide consistency by **35%** via unified metadata platform |
@@ -50,12 +50,13 @@ From **Tata Consultancy Services** (optimizing PySpark pipelines processing 250G
 ### 💻 Languages & Databases
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Java](https://img.shields.io/badge/Java-5382a1?style=for-the-badge&logo=coffeescript&logoColor=white)
-![Shell](https://img.shields.io/badge/Shell_Script-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Shell Script](https://img.shields.io/badge/Shell_Script-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DD0031?style=for-the-badge&logo=redis&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![Apache Hive](https://img.shields.io/badge/Apache%20Hive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=black)
 
 ### ⚙️ Data Engineering & Orchestration
@@ -63,34 +64,68 @@ From **Tata Consultancy Services** (optimizing PySpark pipelines processing 250G
 ![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
 ![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white)
 ![Dagster](https://img.shields.io/badge/Dagster-6b40d3?style=for-the-badge&logo=dagster&logoColor=white)
-![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
+![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
+![Snowpark](https://img.shields.io/badge/Snowpark-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Boto3](https://img.shields.io/badge/Boto3-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+### 🏗️ Architecture & Data Patterns
+![Medallion Architecture](https://img.shields.io/badge/Medallion_Architecture-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
+![SCD--2](https://img.shields.io/badge/SCD--2_Pipelines-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
+![Data Governance](https://img.shields.io/badge/Data_Governance-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![RBAC](https://img.shields.io/badge/RBAC_Security-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Hadoop HDFS](https://img.shields.io/badge/Hadoop_HDFS-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black)
 
 ### ☁️ Cloud & Platforms
 ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
 ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![AWS S3](https://img.shields.io/badge/AWS_S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
+![AWS Glue](https://img.shields.io/badge/AWS_Glue-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![AWS Lambda](https://img.shields.io/badge/AWS_Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white)
+![AWS Kinesis](https://img.shields.io/badge/AWS_Kinesis-FF4F8B?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![AWS EMR](https://img.shields.io/badge/AWS_EMR-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![AWS Redshift](https://img.shields.io/badge/AWS_Redshift-8C4FFF?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure Data Factory](https://img.shields.io/badge/Azure_Data_Factory-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Azure Synapse](https://img.shields.io/badge/Azure_Synapse-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black)
 
 ### 🤖 AI & Vector Search
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-6366f1?style=for-the-badge&logoColor=white)
-![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white)
 ![Snowflake Cortex](https://img.shields.io/badge/Snowflake_Cortex-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-412991?style=for-the-badge&logo=openai&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG_Pipelines-6366f1?style=for-the-badge&logoColor=white)
 
 ### 🧰 DevOps & Tools
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
+---
+
+## 🎓 Leadership & Teaching
+
+### 👩‍🏫 Northeastern University — On-Campus Roles
+
+**TeleHusky Student Ambassador** *(Sep 2025 – Present)*
+Managed high-volume lead pipelines for **500+ prospective students** via Salesforce Lightning, ensuring 100% data integrity across all admissions funnel stages. Analyzed CRM conversion metrics to identify high-potential lead segments and implemented a data-driven prioritization model that measurably improved enrollment outcomes.
+
+**Lead Teaching Assistant — Data Management & Database Design** *(Jan 2025 – Apr 2025)*
+Mentored **50+ graduate students** in relational database concepts — ERD modeling, normalization (1NF–BCNF), and complex SQL optimization. Led weekly office hours troubleshooting architectural challenges in schema design, and collaborated with Prof. Naveen Kuragayala to translate database theory into hands-on graduate learning.
+
+**Graduate Teaching Assistant — Application Engineering & Development** *(Sep 2024 – Dec 2024)*
+Part of a **15-member TA cohort** supporting **500+ graduate students** in a high-intensity software engineering course. Guided students on OOD, Java-based design patterns, and full-stack architecture. Conducted rigorous code reviews ensuring professional standards for modularity, reusability, and performance.
+
+**Admissions Assistant** *(Jun 2024 – Apr 2025)*
+Processed **40+ Salesforce & Slate cases daily**, cutting admissions processing time by **22%** and improving accuracy by **8%**. Responded to 90% of inquiries within 24 hours, supporting a high-quality student experience across the enrollment pipeline.
 
 ---
 
@@ -102,13 +137,7 @@ From **Tata Consultancy Services** (optimizing PySpark pipelines processing 250G
 | 📊 [IMDb Analytics Platform](https://github.com/JanviChitroda24) | End-to-end Medallion Architecture ETL (Bronze→Silver→Gold) with star-schema modeling and Power BI dashboards. | Databricks, PySpark, Azure Data Factory, Snowflake |
 | ⚡ [Real-Time E-Commerce Analytics](https://github.com/JanviChitroda24) | Event-driven streaming pipeline with near real-time Redshift analytics and automated data quality checks. | Kinesis, Lambda, S3, Glue, Redshift |
 
----
-
-## 🎓 Leadership & Teaching
-
-- 👩‍🏫 **Lead Teaching Assistant** — Database Management & Application Engineering, Northeastern University
-  Mentored **550+ students** across coursework, office hours, and project reviews. Translating complex data concepts clearly is a skill I carry into every engineering role.
-- 🎙️ **Admissions Ambassador** — Coordinated student outreach and optimized CRM workflows (Salesforce) for Northeastern's admissions team.
+> 📌 *Pin these repos from your GitHub dashboard: click **"Customize your pins"** and select the three projects above so they appear right below this README.*
 
 ---
 
