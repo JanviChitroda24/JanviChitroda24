@@ -1,10 +1,12 @@
-<h1 align="center">Hi there, I'm Janvi Chitroda 👋</h1>
+<h1 align="center">Hi, I'm Janvi Chitroda 👋</h1>
+
+<h3 align="center">Data Engineer · Big Data · Cloud Pipelines · AI-Integrated Systems</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/janvi-chitroda/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:janvichitroda824@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/JanviChitroda24">
@@ -16,42 +18,97 @@
 
 ## 🙋‍♀️ About Me
 
-I'm a **Data Engineer & ML enthusiast** based in Boston, MA, passionate about turning raw data into meaningful insights.  
-Currently building end-to-end data pipelines, exploring Big Data technologies, and diving deeper into cloud platforms.
+I'm a **Data Engineer** based in Boston, MA, with 2.5+ years of industry experience building scalable data pipelines, cloud-native architectures, and AI-integrated systems. My journey started in Electronics & Telecom engineering, but a second-semester programming course completely changed my trajectory — and I've been obsessed with data ever since.
 
-- 🔭 I'm currently working on **Azure Data Engineering projects**
-- 🌱 I'm currently learning **Spark, Databricks & MLOps**
-- 💡 I love building scalable data solutions and experimenting with ML models
-- 📍 Based in **Boston, MA**
-- 💬 Ask me about Python, Data Engineering, or anything Data!
+From **Tata Consultancy Services** (optimizing PySpark pipelines processing 250GB+/month) to a **Data Engineering internship at Castleton Commodities International** (building LLM-powered metadata platforms), I've worked across the full data stack — batch, streaming, cloud migration, and agentic AI. I chose **Northeastern University's MS in Information Systems** specifically to go deep across Big Data, cloud architecture, and AI — graduating with a GPA of 3.84.
+
+- 🔭 Currently building **Agentic Research Assistants** with LangGraph, Pinecone & Snowflake
+- ☁️ Deep hands-on experience across **AWS, Azure, GCP, Snowflake & Databricks**
+- ⚡ Passionate about **distributed computing, real-time data streams, and AI-augmented pipelines**
+- 📍 Based in **Boston, MA** | Open to relocation
 
 ---
 
-## 🛠️ Skills & Technologies
+## 🏆 Impact Highlights
 
-### 💻 Programming Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=flat&logo=SQLite&logoColor=white)
-![Java](https://img.shields.io/badge/Java-5382a1?style=flat&logo=coffeescript&logoColor=white)
-![Shell](https://img.shields.io/badge/Shell_Script-4EAA25?style=flat&logo=GNUbash&logoColor=white)
+> Numbers from real production work, not toy projects.
 
-### 📊 Data & ML Frameworks
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=Pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=NumPy&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+| Metric | Impact |
+|---|---|
+| ⚡ Pipeline Runtime | Reduced by **60%** via modular Dagster + dbt workflow automation |
+| 🔁 Processing Speed | Accelerated by **65%** across 50+ PySpark ETL pipelines at TCS |
+| 💰 Cloud Compute Costs | Cut by **40%** through Snowflake query optimization (clustering, partitioning, RBAC) |
+| 🗄️ Storage Costs | Reduced by **45%** after on-premise → AWS serverless migration |
+| 🧹 Data Duplicates | Resolved **75%** using Snowflake Cortex LLM + embedding-based entity resolution |
+| 📊 Data Consistency | Improved enterprise-wide consistency by **35%** via unified metadata platform |
+| 📨 Real-Time Streams | Scaled Kafka to process **1M+ messages/day** with 30% latency reduction |
 
-### ☁️ Cloud & Big Data
-![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=flat&logo=microsoftazure&logoColor=white)
-![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat&logo=databricks&logoColor=white)
-![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat&logo=apachespark&logoColor=white)
-![Hadoop](https://img.shields.io/badge/Apache_Hadoop-66CCFF?style=flat&logo=ApacheHadoop&logoColor=black)
+---
 
-### 🧰 Tools & DevOps
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=GitHubActions&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-2F80ED?style=flat&logo=vscode&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white)
+## 🛠️ Technical Toolkit
+
+### 💻 Languages & Databases
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Java](https://img.shields.io/badge/Java-5382a1?style=for-the-badge&logo=coffeescript&logoColor=white)
+![Shell](https://img.shields.io/badge/Shell_Script-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Apache Hive](https://img.shields.io/badge/Apache%20Hive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=black)
+
+### ⚙️ Data Engineering & Orchestration
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
+![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white)
+![Dagster](https://img.shields.io/badge/Dagster-6b40d3?style=for-the-badge&logo=dagster&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+
+### ☁️ Cloud & Platforms
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black)
+
+### 🤖 AI & Vector Search
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-6366f1?style=for-the-badge&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logoColor=white)
+![Snowflake Cortex](https://img.shields.io/badge/Snowflake_Cortex-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
+
+### 🧰 DevOps & Tools
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Description | Stack |
+|---|---|---|
+| 🤖 [Agentic Research Assistant](https://github.com/JanviChitroda24) | Multi-agent RAG system for financial research — document retrieval, Snowflake analytics & real-time news. Cut research time by **65%**. | LangGraph, Pinecone, Snowflake, Airflow, GCP |
+| 📊 [IMDb Analytics Platform](https://github.com/JanviChitroda24) | End-to-end Medallion Architecture ETL (Bronze→Silver→Gold) with star-schema modeling and Power BI dashboards. | Databricks, PySpark, Azure Data Factory, Snowflake |
+| ⚡ [Real-Time E-Commerce Analytics](https://github.com/JanviChitroda24) | Event-driven streaming pipeline with near real-time Redshift analytics and automated data quality checks. | Kinesis, Lambda, S3, Glue, Redshift |
+
+---
+
+## 🎓 Leadership & Teaching
+
+- 👩‍🏫 **Lead Teaching Assistant** — Database Management & Application Engineering, Northeastern University
+  Mentored **550+ students** across coursework, office hours, and project reviews. Translating complex data concepts clearly is a skill I carry into every engineering role.
+- 🎙️ **Admissions Ambassador** — Coordinated student outreach and optimized CRM workflows (Salesforce) for Northeastern's admissions team.
 
 ---
 
@@ -63,19 +120,10 @@ Currently building end-to-end data pipelines, exploring Big Data technologies, a
 
 ---
 
-### ⭐ If you find my work helpful, consider starring a repo!
-
-<!--
-**JanviChitroda24/JanviChitroda24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  ⭐ If you find my work helpful, consider starring a repo!
+  <br><br>
+  📖 <em>Curious how I went from Electronics & Telecom to Data Engineering?</em><br>
+  <!-- Replace this link once you publish your LinkedIn article -->
+  <a href="https://www.linkedin.com/in/janvi-chitroda/">Read my full journey on LinkedIn →</a>
+</p>
