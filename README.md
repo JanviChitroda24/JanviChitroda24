@@ -113,19 +113,11 @@ From **Tata Consultancy Services** (optimizing PySpark pipelines processing 250G
 
 ## 🎓 Leadership & Teaching
 
-### 👩‍🏫 Northeastern University — On-Campus Roles
+**👩‍🏫 Teaching Assistant** — Northeastern University *(2024 – 2025)*
+Served as TA across two courses — **Database Management & Design** and **Application Engineering & Development** — supporting **550+ graduate students** combined. Led office hours, conducted code reviews, and mentored students on SQL optimization, OOD, and scalable system design.
 
-**TeleHusky Student Ambassador** *(Sep 2025 – Present)*
-Managed high-volume lead pipelines for **500+ prospective students** via Salesforce Lightning, ensuring 100% data integrity across all admissions funnel stages. Analyzed CRM conversion metrics to identify high-potential lead segments and implemented a data-driven prioritization model that measurably improved enrollment outcomes.
-
-**Lead Teaching Assistant — Data Management & Database Design** *(Jan 2025 – Apr 2025)*
-Mentored **50+ graduate students** in relational database concepts — ERD modeling, normalization (1NF–BCNF), and complex SQL optimization. Led weekly office hours troubleshooting architectural challenges in schema design, and collaborated with Prof. Naveen Kuragayala to translate database theory into hands-on graduate learning.
-
-**Graduate Teaching Assistant — Application Engineering & Development** *(Sep 2024 – Dec 2024)*
-Part of a **15-member TA cohort** supporting **500+ graduate students** in a high-intensity software engineering course. Guided students on OOD, Java-based design patterns, and full-stack architecture. Conducted rigorous code reviews ensuring professional standards for modularity, reusability, and performance.
-
-**Admissions Assistant** *(Jun 2024 – Apr 2025)*
-Processed **40+ Salesforce & Slate cases daily**, cutting admissions processing time by **22%** and improving accuracy by **8%**. Responded to 90% of inquiries within 24 hours, supporting a high-quality student experience across the enrollment pipeline.
+**🎙️ Student Ambassador & Admissions Assistant** — Northeastern University *(2024 – 2025)*
+Managed **500+ prospective student pipelines** via Salesforce Lightning, cut admissions processing time by **22%**, and built data-driven prioritization models to improve enrollment outcomes.
 
 ---
 
