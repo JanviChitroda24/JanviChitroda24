@@ -126,7 +126,7 @@ Managed **500+ prospective student pipelines** via Salesforce Lightning, cut adm
 | Project | Description | Stack |
 |---|---|---|
 | 🤖 [Agentic Research Assistant](https://github.com/JanviChitroda24) | Multi-agent RAG system for financial research — document retrieval, Snowflake analytics & real-time news. Cut research time by **65%**. | LangGraph, Pinecone, Snowflake, Airflow, GCP |
-| 📊 [IMDb Analytics Platform]((https://github.com/JanviChitroda24/Imdb_Analytics_Project)) | End-to-end Medallion Architecture ETL (Bronze→Silver→Gold) with star-schema modeling and Power BI dashboards. | Databricks, PySpark, Azure Data Factory, Snowflake |
+| 📊 [IMDb Analytics Platform](https://github.com/JanviChitroda24/Imdb_Analytics_Project) | End-to-end Medallion Architecture ETL (Bronze→Silver→Gold) with star-schema modeling and Power BI dashboards. | Databricks, PySpark, Azure Data Factory, Snowflake |
 | ⚡ [Real-Time E-Commerce Analytics](https://github.com/JanviChitroda24) | Event-driven streaming pipeline with near real-time Redshift analytics and automated data quality checks. | Kinesis, Lambda, S3, Glue, Redshift |
 
 > 📌 *Pin these repos from your GitHub dashboard: click **"Customize your pins"** and select the three projects above so they appear right below this README.*
